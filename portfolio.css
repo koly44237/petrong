@@ -1,0 +1,174 @@
+#title{
+    background-color:#000000;
+}
+.icon {
+    position: relative;
+    /* Adjust these values accordingly */
+     top: 1px;
+    /* right: 10px; */
+    /* margin-left: 10 */
+    float: left;
+
+  }
+  #firstsection{
+    background-color:#ddf3e2;
+    /* margin: 0px 4px 0px; */
+    padding: 3% 3% 0% 3%;
+   
+}
+.firstsectionimage{
+    border-radius: 5%;
+    padding-left: 0%;
+    margin: 40px;
+    
+}
+.firstsectiontext{
+    margin-top: 40px;
+    margin-bottom: 40px
+
+}
+.firstsectiontext::before{
+    content: "";
+    height: 2px;
+    width: 50px;
+    display: block;
+    position: absolute;
+    background-color: lightgreen;
+    top: 25px;
+    left: 8px;
+}
+.firstsectionimage2{
+    position: absolute;
+    bottom: 287px;
+    left: 1000px;
+}
+#secondsection{
+    background-color: #000000;
+    padding-bottom: 50px;
+}
+.secondsectiontext{
+    padding: 3% 3% 1%;
+    color: #fff;
+}
+.secondsectionicon{
+    position: absolute;
+    top: 94px;
+    left: 294px;
+    background-color: aliceblue;
+    height: 40px;
+    width: 50px;
+    color: green;
+    padding: 5px;
+    border-radius: 20px;
+}
+.secondsectiondiv1{
+    background-color: #EEEEEE;
+    /* padding: 2%; */
+    border-radius: 8px;
+    height: 320px;
+    
+}
+.secondsectionimage1{
+    padding: 20px;
+}
+.secondsectiondiv2{
+  background-color: #fff;
+  color: #000000;
+  height: 320px;
+  margin-top:20px ;
+  border-radius: 8px;
+  }
+  .secondsectionicon2{
+    position: absolute;
+    top: 12px;
+    left: 58px;
+    background-color: aliceblue;
+    height: 40px;
+    width: 50px;
+    padding: 5px;
+    border-radius: 20px;
+}
+.secondsectionimage2{
+    padding-top: 20px;
+}
+.secondsectiondiv3{
+    background-color: #1B1A17;
+    border-radius: 8px;
+    height: 320px;
+    height: 320px;
+  margin-top:20px ;
+  color: #fff;
+}
+.secondsectiondiv4{
+    background-color: #019267;
+    border-radius: 8px;
+    height: 320px;
+    height: 320px;
+  margin-top:20px ;
+  color: #fff;
+}
+.secondsectiondiv5{
+    background-color: #fff;
+    border-radius: 8px;
+    height: 320px;
+    height: 320px;
+  margin-top:20px ;
+  color: #000000;
+}
+.secondsectiondiv6{
+    background-color: #2D31FA;
+    border-radius: 8px;
+    height: 320px;
+    height: 320px;
+  margin-top:20px ;
+  color: #fff;
+}
+#thirdsection{
+        background-color: #EEEEEE;
+        padding: 3% 7% 3% 7%;
+        height: 220px;
+}
+.thirdsectiondiv1{
+    background-color:#ddf3e2;
+    height: 100px;
+    width: 150px;
+    text-align: center;
+    padding: 6% 8%;
+    border-radius: 5px;
+}
+.thirdsectiondiv2{
+    background-color:#ddf3e2;
+    height: 100px;
+    width: 150px;
+    text-align: center;
+    padding: 6% 2%;
+    border-radius: 5px;
+    margin-left: 0px;
+}
+#fourthsection{
+    background-color:#ddf3e2;
+    padding: 7%;
+}
+.fourthsectionbtn{
+    border-radius: 50px;
+    padding: 3%;
+    width: 200px;
+} 
+#footer{
+    background-color: #180A0A;
+    padding: 4% 10%;
+    color: #fff;
+}
+.footericon1{
+    position: relative;
+    top: -80px;
+}
+.footericon2{
+    height: 40px;
+    width: 40px;
+    background-color: #fff;
+    color: #180A0A;
+    padding: 10%;
+    text-align: center;
+    border-radius: 50px;
+}
